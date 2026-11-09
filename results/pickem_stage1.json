@@ -1,0 +1,24 @@
+{
+ "picks": {
+  "30": [
+   "HEROIC",
+   "100 Thieves"
+  ],
+  "03": [
+   "Chinggis Warriors",
+   "Wildcard"
+  ],
+  "adv": [
+   "Ninjas in Pyjamas",
+   "Liquid",
+   "PARIVISION",
+   "FaZe",
+   "DENDELE",
+   "Eternal Fire"
+  ]
+ },
+ "expected": 3.42568,
+ "p_coin": 0.21818,
+ "random_expected": 2.74915,
+ "random_p_coin": 0.0788
+}
